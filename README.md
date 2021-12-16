@@ -1,3 +1,5 @@
+:construction: ***BUILDING...*** :construction:
+
 :information_desk_person: Hi, my name is Gabriela and I am from Brazil.
 
 :heart:I'm an aspiring data scientist, a technology enthusiast and motivated by challenges.
