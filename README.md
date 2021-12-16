@@ -1,4 +1,4 @@
-:construction: ***BUILDING...*** :construction:
+:construction: ***BUILDING*** :construction:
 
 :information_desk_person: Hi, my name is Gabriela and I am from Brazil.
 
